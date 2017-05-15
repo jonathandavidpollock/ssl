@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/jonathanpollock/Desktop/SSL/Day 1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jonathanpollock/Desktop/SSL/Day 1","disabled":false,"__vagrantfile":true}}}
